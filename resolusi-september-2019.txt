@@ -2,5 +2,5 @@ resolusi
 - belajar git
 - membuat paltform untuk web baca
 - membuat forum diskusi
-- membuat web dengan laravel
 - mencari link baru
+- membuat simple vlog
