@@ -1,0 +1,4 @@
+resolusi
+- belajar git
+- membuat paltform untuk web baca
+- membuat forum diskusi
